@@ -1,4 +1,5 @@
-# Website-Data-Analysis-and-EDA-
+
+# Website-Data-Analysis-and-EDA
 
 📊 Exploratory Data Analysis (EDA) on User Engagement
 
@@ -15,3 +16,5 @@ Bar plots to compare Engaged vs Non-Engaged sessions across channels.
 Box plots to examine the distribution of Engagement rate by channel.
 
 Data Reshaping – used pandas.melt() to convert wide data into long/tidy format for easier plotting and comparison.
+
+
